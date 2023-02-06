@@ -10,21 +10,21 @@ leisure, exercise, or to reduce their environmental carbon footprint. For this, 
 expected to grow annually by 8% until 2030. This project analyses bike sales data to gain
 market insights and trends into the profits and revenues of bike sales. This analysis covers
 product types, countries, customers and how they affect profit and revenue over six years
-(2011 to 2016).
+(2011 to 2016). \
 The net profit and sales revenue are seen to increase but experience a drop in 2014 and 2016.
 The decline is quite regular, and it can be predicted to occur in 2018 similarly (after an increase
 in 2017). The Bike is the most profitable in the product category and the most significant
 contributor to profit and sales revenue. The total profits and sales revenue is generated more
 from the United States, thus the most profitable country for the company. The country is
 followed closely by Australia. Also, Road and Mountain bikes in the Bikes category are the
-most significant contributor to total profit and revenue.
+most significant contributor to total profit and revenue. \
 Furthermore, most transaction orders occurred on products with prices between $2 and $120,
 with the highest being $5 products followed by $35 products. California in the United States is
 the most significant contributor among the states to total profit and revenue. The 'Adult' and
 'Young Adults' age groups generally contribute more to the country's profit and revenue.
 Finally, the net profit forecast for next year (2017) is $13.41 million with a forecast accuracy of
 87.56%. The sales revenue for next year (2017) is $28.04 million with a forecast accuracy of
-89.17%.
+89.17%. \  
 It is recommended that highly performing product category (Bikes), country (United States)
 and age groups should be monitored and maintained. Countries like Germany has a very good
 cycling culture and a bigger population than Australia. This is potential for better sales in this
