@@ -1,5 +1,5 @@
-# bike_sales_analysis
-## Analysing a company sales of bikes in 6 countries. 
+#  Analysis of a Company's Sales of Bike Products
+
 
 ### Data Source
 The dataset used for this analysis was downloaded from Kaggle via this [link](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
