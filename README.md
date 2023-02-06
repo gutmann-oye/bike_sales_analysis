@@ -4,6 +4,12 @@
 ### Data Source
 The dataset used for this analysis was downloaded from Kaggle via this [link](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
 
+### Power BI Dashboard Design
+The Dashboard is highly interactive, beautiful and easy to use. It also features useful filters to
+provide more analysis. On the landing page, there is the Overview page with the overview visuals. In addition, there
+are menu buttons to navigate between pages. There are also buttons to view either Profit or
+Revenue.
+
 ### Executive Summary
 The global market size for bikes is valued above USD 50 billion. Many people keep biking for
 leisure, exercise, or to reduce their environmental carbon footprint. For this, the market size is
