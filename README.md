@@ -34,10 +34,10 @@ perform better than their current performances
 
 ### Conclusions
 The following conclusions can be drawn:
-• The net profit and sales revenue generally increased but experienced a drop in 2014
+1. The net profit and sales revenue generally increased but experienced a drop in 2014
 and 2016. The drop is quite regular, and it can be predicted to occur in 2018 similarly
 (after an increase in 2017).
-• The Bike is the most profitable product category and the most significant contributor to
+2. The Bike is the most profitable product category and the most significant contributor to
 profit and sales revenue.
 • Road Bikes are the most profitable product subcategory. Road-150 Red, 62 is the most
 popular product.
