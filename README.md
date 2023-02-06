@@ -39,31 +39,31 @@ and 2016. The drop is quite regular, and it can be predicted to occur in 2018 si
 (after an increase in 2017).
 2. The Bike is the most profitable product category and the most significant contributor to
 profit and sales revenue.
-• Road Bikes are the most profitable product subcategory. Road-150 Red, 62 is the most
+3. Road Bikes are the most profitable product subcategory. Road-150 Red, 62 is the most
 popular product.
-• Females' and males' bikes perform almost equally in the market.
-• Total profits and sales revenue are generated more from the United States, thus the
+4. Females' and males' bikes perform almost equally in the market.
+5. Total profits and sales revenue are generated more from the United States, thus the
 most profitable country for the company. However, the country is followed closely by
 Australia.
-• Road and Mountain bikes in the Bikes category are the most significant contributor to
+6. Road and Mountain bikes in the Bikes category are the most significant contributor to
 total profit and revenue.
-• Most transaction orders occurred on products with prices between $2 and $120, with
+7. Most transaction orders occurred on products with prices between $2 and $120, with
 the highest being $5 products, followed by $35 products.
-• California in the United States is the biggest contributor among the states to total profit
+8. California in the United States is the biggest contributor among the states to total profit
 and revenue.
-• The 'Adult' and 'Young Adults' age groups generally contribute more to the country's
+9. The 'Adult' and 'Young Adults' age groups generally contribute more to the country's
 profit and revenue.
-• The net profit forecast for next year (2017) is $13.41 million, with a forecast accuracy
+10. The net profit forecast for next year (2017) is $13.41 million, with a forecast accuracy
 of 87.56%. The sales revenue for next year (2017) is $28.04 million, with a forecast
 accuracy of 89.17%.
 
 ### Recommendations
 The following recommendations can be made:
-• Highly performing product categories (Bikes), country (United States) and age groups
+1. Highly performing product categories (Bikes), country (United States) and age groups
 should be monitored and maintained.• Countries like Germany have an excellent cycling culture and a bigger population than
 Australia (DW, 2021)So this is potential for better sales in this country, and the
 company should investigate that.
-• Low-performing products should be investigated for ways to improve their
+2. Low-performing products should be investigated for ways to improve their
 performances in the market.
-• If more quantities of $5 and $35 products are sold, then products with prices in between
+3. If more quantities of $5 and $35 products are sold, then products with prices in between
 should be investigated as they can perform better than their current performances.
