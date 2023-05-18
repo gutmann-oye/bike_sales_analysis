@@ -2,7 +2,7 @@
 
 
 ### Data Source
-The dataset used for this analysis was downloaded from Kaggle via this [link](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
+The dataset used for this analysis was downloaded via this [link](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
 
 ### Power BI Dashboard Design
 The Dashboard is highly interactive, beautiful and easy to use. It also features useful filters to
